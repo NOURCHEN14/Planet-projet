@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> FLOATING</title> 
+        <link rel="stylesheet"  href="pp.css">
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Bungee&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+
+        
+    </head>
+    <body>
+        <div class="hero">
+            <div class="content">
+                <h2>Wix</h2>
+                <ul>
+                    <li><a href="#">About us </a></li>
+                    <li><a href="#"> Team </a></li>
+                    <li><a href="#"> Work </a></li>
+                    <li><a href="#">App </a></li>
+                    <li><a href="#">Blog </a></li>
+                    <li><a href="#">Contact Us</a></li>
+
+
+
+
+
+
+                </ul>
+            </div>
+            <div class="main">
+            <h3>The creative </h3>
+            <h1>next Big Thing In </h1>
+            <h4>Multipurpose</h4>
+            <p>Subscribe To Myy Channel For More Videos</p>
+            <button type="button"> Watch More</button>
+        </div>
+
+
+
+        <div class="sidebar">
+            <div class="box">
+                <div class="text">
+                    Facebook
+
+                </div>
+                <div class="icon">
+                    <i class="fab fa-facebook"></i>
+
+                </div>
+            </div>
+            <div class="box">
+                <div class="text">
+                    Twitter
+
+                </div>
+                <div class="icon">
+                    <i class="fab fa-twitter-square"></i>
+
+                </div>
+            </div>
+            <div class="box">
+                <div class="text">
+                    Instagram
+
+                </div>
+                <div class="icon">
+                    <i class="fab fa-instagram-square"></i>
+
+                </div>
+            </div>
+            <div class="box">
+                <div class="text">
+                    Linkedin
+
+                </div>
+                <div class="icon">
+                    <i class="fab fa-linkedin"></i>
+
+                </div>
+            </div>
+            <div class="box">
+                <div class="text">
+                    Youtube
+
+                </div>
+                <div class="icon">
+                    <i class="fab fa-youtube"></i>
+                </div>
+            </div>
+            <div class="box">
+                <div class="text">
+                    Dribbble
+
+                </div>
+                <div class="icon">
+                    <i class="fab fa-dribbble"></i>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+        </body>
+        </html>
